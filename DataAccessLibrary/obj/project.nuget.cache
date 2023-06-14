@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "kqqOhIs7NYKKIo4wkIk4QmbM4fHWbjFdvxq5ysO3P/0LXe3v4H/IOkR/k6+HnqqzCb7LGB6lqWYPboOT7FcDIw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jsrexterno.vsti\\source\\repos\\BlazorDemoApp\\DataAccessLibrary\\DataAccessLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jsrexterno.vsti\\.nuget\\packages\\dapper\\2.0.138\\dapper.2.0.138.nupkg.sha512",
+    "C:\\Users\\jsrexterno.vsti\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\jsrexterno.vsti\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\jsrexterno.vsti\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\jsrexterno.vsti\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\jsrexterno.vsti\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\jsrexterno.vsti\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512",
+    "C:\\Users\\jsrexterno.vsti\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
