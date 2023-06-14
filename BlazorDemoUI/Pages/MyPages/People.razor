@@ -2,10 +2,25 @@
 
 @using DataAccessLibrary
 @using DataAccessLibrary.Models
+@using BlazorDemoUI.Models
 
 @inject IPeopleData _db
 
 <h1>People Page</h1>
+
+<h4>Inser New Person</h4>
+
+<EditForm Model=@newPerson OnValidSubmit="@InsertPerson">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <InputText id="firstName" @bind-Value="newPerson.FirstName" />
+    <InputText id="lastName" @bind-Value="newPerson.LastName" />
+    <InputText id="email" @bind-Value="newPerson.EmailAddress" />
+
+    <button type="submit" class="btn btn-primary">Go</button>
+</EditForm>
+
 
 <h4>Current People</h4>
 
@@ -40,10 +55,25 @@ else
 
 @code {
     private List<PersonModel> people;
+    private DisplayPersonModel newPerson = new DisplayPersonModel();
 
     protected override async Task OnInitializedAsync()
     {
         people = await _db.GetPeople();
     }
 
+    private async Task InsertPerson()
+    {
+        PersonModel p = new PersonModel
+            {
+                FirstName = newPerson.FirstName,
+                LastName = newPerson.LastName,
+                EmailAddress = newPerson.EmailAddress
+            };
+
+        await _db.InsertPerson(p);
+
+        // Cheat for show immediately the person info without calling DB
+        people.Add(p);
+    }
 }
