@@ -1,0 +1,10 @@
+C:\Users\jsrexterno.vsti\source\repos\BlazorDemoApp\DataAccessLibrary\bin\Debug\netstandard2.1\DataAccessLibrary.deps.json
+C:\Users\jsrexterno.vsti\source\repos\BlazorDemoApp\DataAccessLibrary\bin\Debug\netstandard2.1\DataAccessLibrary.dll
+C:\Users\jsrexterno.vsti\source\repos\BlazorDemoApp\DataAccessLibrary\bin\Debug\netstandard2.1\DataAccessLibrary.pdb
+C:\Users\jsrexterno.vsti\source\repos\BlazorDemoApp\DataAccessLibrary\obj\Debug\netstandard2.1\DataAccessLibrary.csproj.AssemblyReference.cache
+C:\Users\jsrexterno.vsti\source\repos\BlazorDemoApp\DataAccessLibrary\obj\Debug\netstandard2.1\DataAccessLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jsrexterno.vsti\source\repos\BlazorDemoApp\DataAccessLibrary\obj\Debug\netstandard2.1\DataAccessLibrary.AssemblyInfoInputs.cache
+C:\Users\jsrexterno.vsti\source\repos\BlazorDemoApp\DataAccessLibrary\obj\Debug\netstandard2.1\DataAccessLibrary.AssemblyInfo.cs
+C:\Users\jsrexterno.vsti\source\repos\BlazorDemoApp\DataAccessLibrary\obj\Debug\netstandard2.1\DataAccessLibrary.csproj.CoreCompileInputs.cache
+C:\Users\jsrexterno.vsti\source\repos\BlazorDemoApp\DataAccessLibrary\obj\Debug\netstandard2.1\DataAccessLibrary.dll
+C:\Users\jsrexterno.vsti\source\repos\BlazorDemoApp\DataAccessLibrary\obj\Debug\netstandard2.1\DataAccessLibrary.pdb
